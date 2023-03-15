@@ -1104,7 +1104,6 @@ section {
 --------------------------------------------------------------*/
 .departments {
   overflow: hidden;
- 
 }
 
 .departments .nav-tabs {
@@ -1154,7 +1153,6 @@ section {
   .departments .nav-link {
     border: 0;
     padding: 15px;
-    
   }
 
   .departments .nav-link.active {
