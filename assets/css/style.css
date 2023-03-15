@@ -790,7 +790,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/hero.jpg") center center no-repeat;
+  background: url("../img/aboutus.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -1104,6 +1104,7 @@ section {
 --------------------------------------------------------------*/
 .departments {
   overflow: hidden;
+ 
 }
 
 .departments .nav-tabs {
@@ -1153,6 +1154,7 @@ section {
   .departments .nav-link {
     border: 0;
     padding: 15px;
+    
   }
 
   .departments .nav-link.active {
