@@ -463,7 +463,7 @@ h6 {
 #hero {
   width: 100%;
   height: 90vh;
-  background: url("../img/top.jpg") top center;
+  background: url("../img/cat.jpg") top center;
   background-size: cover;
   margin-bottom: -200px;
 }
@@ -479,6 +479,7 @@ h6 {
   line-height: 56px;
   text-transform: uppercase;
   color: #2c4964;
+  text-shadow: 2px 2px #1977cc; 
   
 }
 
@@ -486,6 +487,8 @@ h6 {
   color: #2c4964;
   margin: 10px 0 0 0;
   font-size: 24px;
+  text-shadow: 1px 1px #1977cc;
+
   
 
 }
@@ -519,7 +522,12 @@ h6 {
   #hero {
     margin-bottom: 0;
     height: 100vh;
+    background: url("../img/smallcat.jpg") top center;
+    background-size: cover;
+
+  
   }
+
 
   #hero .container {
     padding-bottom: 63px;
@@ -528,12 +536,18 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    margin-top: 10cm;
+    text-shadow: 2px 2px #1977cc;
+   
   }
 
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px #1977cc;
+
+    
   }
 }
 

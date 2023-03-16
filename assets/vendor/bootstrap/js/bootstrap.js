@@ -4577,7 +4577,7 @@
         if (userScrollsDown && entryIsLowerThanPrevious) {
           activate(entry); // if parent isn't scrolled, let's keep the first visible item, breaking the iteration
 
-          if (!parentScrollTop) {
+          if (!parentp) {
             return;
           }
 
