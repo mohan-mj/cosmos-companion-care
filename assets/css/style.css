@@ -522,7 +522,7 @@ h6 {
   #hero {
     margin-bottom: 0;
     height: 100vh;
-    background: url("../img/smallcat.jpg") top center;
+    background: url("../img/cat.jpg") top center;
     background-size: cover;
 
   
@@ -531,12 +531,13 @@ h6 {
 
   #hero .container {
     padding-bottom: 63px;
+    padding-left: 50px;
   }
 
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
-    margin-top: 10cm;
+    margin-top: 9cm;
     text-shadow: 2px 2px #1977cc;
    
   }
